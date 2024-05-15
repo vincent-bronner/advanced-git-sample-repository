@@ -1,3 +1,4 @@
 pytest
 pytest-new
 scipy
+matplotlib
